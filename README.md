@@ -10,7 +10,6 @@ Features
 --------------
 - Match rider and drivers based on distance, rating, and riders' preference
 - Calculates surge price based on supply and demand
-- 
 
 Technology/Techniques
 --------------
